@@ -7,6 +7,7 @@ public class main{
         System.out.println("This is output of the java program");
         System.out.println(new Date(0));
         System.out.println("Hello");
+        System.out.println("This is for checking build");
     }
 
 
